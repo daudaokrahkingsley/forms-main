@@ -50,6 +50,10 @@
                 background-color: $background-color;
             }
         }
+        .btn-sm {
+            text-decoration: none;
+            display: none;
+        }
     }
     
     .overlay {

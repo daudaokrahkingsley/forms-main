@@ -45,6 +45,10 @@ body {
 .main-content .btn-primary:hover {
   background-color: #74C0FC;
 }
+.main-content .btn-sm {
+  text-decoration: none;
+  display: none;
+}
 
 .overlay {
   position: absolute;
