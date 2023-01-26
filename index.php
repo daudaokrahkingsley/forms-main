@@ -22,7 +22,7 @@
 
         <h1>Welcome</h1>
         <button class="btn-primary">Continue</button>
-        <a href="forms.html" class="btn-primary btn-sm">Continue</a>
+        <a href="forms.php" class="btn-primary btn-sm">Continue</a>
     </div>
 
     <div class="overlay hide"></div>
